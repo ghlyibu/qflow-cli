@@ -1,0 +1,12 @@
+baseURL = 'https://sanhai.top/'
+languageCode = 'en-us'
+defaultContentLanguage = 'zh-cn'
+title = '程序员三海的网络日志'
+theme = 'FixIt'
+
+[markup]
+  _merge = "shallow"
+[outputs]
+  _merge = "shallow"
+[taxonomies]
+  _merge = "shallow"
